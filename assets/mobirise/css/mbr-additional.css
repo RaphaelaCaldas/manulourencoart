@@ -928,18 +928,6 @@ section.lazy-placeholder:after {
   transition: 0.2s background ease-in-out;
   background: linear-gradient(to left, #c12026, #e2a621) !important;
 }
-.cid-rwe98Hu7gS {
-  padding-top: 15px;
-  padding-bottom: 15px;
-  background: linear-gradient(0deg, #e2a621, #c12026);
-}
-.cid-rwe98Hu7gS .mbr-iconfont-social {
-  font-size: 32px;
-  color: #ffffff;
-}
-.cid-rwe98Hu7gS .social-list a:focus {
-  text-decoration: none;
-}
 .cid-rJeyaRcCNa .navbar {
   background: #213c43;
   transition: none;
@@ -1341,6 +1329,18 @@ section.lazy-placeholder:after {
 .cid-rJeyaRcCNa .nav-link:hover,
 .cid-rJeyaRcCNa .dropdown-item:hover {
   color: #507db6 !important;
+}
+.cid-rJeJzruK3R {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background: linear-gradient(0deg, #e2a621, #c12026);
+}
+.cid-rJeJzruK3R .mbr-iconfont-social {
+  font-size: 32px;
+  color: #ffffff;
+}
+.cid-rJeJzruK3R .social-list a:focus {
+  text-decoration: none;
 }
 .cid-rJeyaRcCNa .navbar {
   background: #213c43;
@@ -1917,16 +1917,16 @@ section.lazy-placeholder:after {
 .cid-rJewNQiuKS H5 {
   color: #e2a621;
 }
-.cid-rJewNRDBkl {
+.cid-rJeJvOTJH4 {
   padding-top: 15px;
   padding-bottom: 15px;
   background: linear-gradient(0deg, #e2a621, #c12026);
 }
-.cid-rJewNRDBkl .mbr-iconfont-social {
+.cid-rJeJvOTJH4 .mbr-iconfont-social {
   font-size: 32px;
   color: #ffffff;
 }
-.cid-rJewNRDBkl .social-list a:focus {
+.cid-rJeJvOTJH4 .social-list a:focus {
   text-decoration: none;
 }
 .cid-rJexdTojgy {
