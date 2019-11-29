@@ -1752,23 +1752,33 @@ section.lazy-placeholder:after {
 .cid-rJewNLHTyn H2 {
   color: #ffffff;
 }
-.cid-rJewNMWhrv {
-  padding-top: 45px;
-  padding-bottom: 45px;
+.cid-rJfinOXgaW {
+  padding-top: 15px;
+  padding-bottom: 15px;
   background-color: #213c43;
 }
-@media (min-width: 992px) {
-  .cid-rJewNMWhrv .mbr-figure {
-    padding-right: 4rem;
-  }
+.cid-rJfinOXgaW .line {
+  background-color: #e2a621;
+  color: #e2a621;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
 }
-@media (max-width: 991px) {
-  .cid-rJewNMWhrv .mbr-figure {
-    padding-bottom: 1rem;
-  }
-}
-.cid-rJewNMWhrv .mbr-text {
+.cid-rJfinOXgaW .section-text {
+  padding: 2rem 0;
   color: #ffffff;
+  text-align: left;
+}
+.cid-rJfinOXgaW .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-rJfinOXgaW .inner-container {
+    width: 100% !important;
+  }
+}
+.cid-rJfinOXgaW .section-text DIV {
+  text-align: left;
 }
 .cid-rJewNNUEWe {
   padding-top: 15px;
@@ -1776,7 +1786,7 @@ section.lazy-placeholder:after {
   background-color: #213c43;
 }
 .cid-rJewNNUEWe .mbr-section-subtitle {
-  color: #e2a621;
+  color: #496ab1;
   text-align: center;
   font-weight: 300;
 }
