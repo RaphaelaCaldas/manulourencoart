@@ -1750,7 +1750,7 @@ section.lazy-placeholder:after {
   background-image: url("../../../assets/images/mbr-1920x1440.jpg");
 }
 .cid-rJewNLHTyn H2 {
-  color: #e2a621;
+  color: #ffffff;
 }
 .cid-rJewNMWhrv {
   padding-top: 45px;
@@ -1887,6 +1887,12 @@ section.lazy-placeholder:after {
   color: #ffffff;
 }
 .cid-rJewNNUEWe .mbr-section-title {
+  color: #e2a621;
+}
+.cid-rJewNNUEWe .mbr-timeline-title {
+  color: #213c43;
+}
+.cid-rJewNNUEWe .mbr-timeline-text {
   color: #ffffff;
 }
 .cid-rJewNQiuKS {
@@ -1935,7 +1941,7 @@ section.lazy-placeholder:after {
   background-image: url("../../../assets/images/mbr-1920x1440.jpg");
 }
 .cid-rJexdTojgy H2 {
-  color: #e2a621;
+  color: #ffffff;
 }
 .cid-rJexdWEddI {
   padding-top: 15px;
