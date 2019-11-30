@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Manu Lourenço - Portfolio",
-    "currentPage": "page1.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -352,7 +352,7 @@
             "gallery__filtersBtnStyle": "btn-secondary",
             "gallery": [
               {
-                "tags": "2017",
+                "tags": "2018",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -361,7 +361,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "Banda Sinfônica Infanto-Juvenil do GURI Santa Marcelina no Theatro São Pedro",
                 "active": false
               },
               {
@@ -374,7 +374,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "...",
                 "active": false
               },
               {
@@ -387,7 +387,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "...",
                 "active": false
               },
               {
@@ -400,7 +400,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "...",
                 "active": false
               },
               {
@@ -413,7 +413,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "...",
                 "active": false
               },
               {
@@ -426,8 +426,8 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
-                "active": false
+                "caption": "Sopranos do Coro Luther King no Auditório do Ibirapuera",
+                "active": true
               },
               {
                 "tags": "2018",
@@ -439,7 +439,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "Banda Sinfônica Juvenil do GURI Santa Marcelina no Theatro São Pedro",
                 "active": false
               },
               {
@@ -452,7 +452,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "Coro Luther King em apresentação com Nelson &nbsp;Aires",
                 "active": false
               },
               {
@@ -465,7 +465,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "...",
                 "active": false
               },
               {
@@ -478,7 +478,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "...",
                 "active": false
               },
               {
@@ -491,7 +491,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "Coro Luther King em apresentação com Nelson  Aires",
                 "active": false
               },
               {
@@ -504,11 +504,11 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "...",
                 "active": false
               },
               {
-                "tags": "2015",
+                "tags": "2016",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -517,8 +517,8 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
-                "active": true
+                "caption": "...",
+                "active": false
               }
             ]
           }
