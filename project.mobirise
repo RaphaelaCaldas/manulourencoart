@@ -45,7 +45,7 @@
         "url": "https://fonts.googleapis.com/css?family=Special+Elite:400"
       }
     ],
-    "uniqCompNum": 57,
+    "uniqCompNum": 58,
     "versionPublish": "4.10.15",
     "screenshot": "screenshot.png",
     "favicon": "",
@@ -1778,13 +1778,13 @@
         {
           "loadsvg": "@PROJECT_PATH@/assets/images/loading.svg",
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "postToLoad": "3",
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "postToLoad": 3,
             "facebook": "",
             "twitter": "",
             "google": "",
-            "youtube": "UCt_tncVAetpK5JeM8L-8jyw",
+            "youtube": "UCDPM_n1atn2ijUwHd0NNRQw",
             "bgColorRadio": true,
             "bgColor": "#213c43",
             "bgImageRadio": false,
@@ -1798,7 +1798,7 @@
             "Extension"
           ],
           "_name": "feed",
-          "_anchor": "feed-1f"
+          "_anchor": "feed-1l"
         },
         {
           "alias": false,
