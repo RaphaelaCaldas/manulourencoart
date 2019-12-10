@@ -53,10 +53,10 @@
     "noImageResize": "",
     "cookiesAlert": "",
     "gdpr": "",
-    "siteUrl": "http://www.manulourenco.mus.br",
+    "siteUrl": "",
     "google-analytics": "",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
-    "robotsSwitcher": "on",
+    "robotsSwitcher": "",
     "sitemapSwitcherAuto": "on",
     "sitemapSwitcher": "on"
   },
