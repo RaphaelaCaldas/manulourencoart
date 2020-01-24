@@ -1742,7 +1742,7 @@ section.lazy-placeholder:after {
 }
 .cid-rJeyaRcCNa .nav-link:hover,
 .cid-rJeyaRcCNa .dropdown-item:hover {
-  color: #507db6 !important;
+  color: #213c43 !important;
 }
 .cid-rJewNLHTyn {
   padding-top: 45px;
@@ -1895,6 +1895,7 @@ section.lazy-placeholder:after {
 }
 .cid-rJewNNUEWe .mbr-timeline-date {
   color: #ffffff;
+  text-align: center;
 }
 .cid-rJewNNUEWe .mbr-section-title {
   color: #e2a621;
@@ -2365,5 +2366,5 @@ section.lazy-placeholder:after {
 }
 .cid-rJeyaRcCNa .nav-link:hover,
 .cid-rJeyaRcCNa .dropdown-item:hover {
-  color: #507db6 !important;
+  color: #213c43 !important;
 }
