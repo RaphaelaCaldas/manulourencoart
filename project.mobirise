@@ -58,7 +58,8 @@
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "robotsSwitcher": "on",
     "sitemapSwitcherAuto": "on",
-    "sitemapSwitcher": "on"
+    "sitemapSwitcher": "on",
+    "imageResize": true
   },
   "pages": {
     "biografia.html": {
@@ -1626,7 +1627,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Recital de Fim de Ano de harpa, na EMESP Tom Jobim.",
-                "active": true
+                "active": false
               },
               {
                 "tags": "2019",
@@ -1798,6 +1799,19 @@
                 "active": false
               },
               {
+                "tags": "2019",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/corolutherking-1296x864.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/corolutherking-1296x864-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Coro Luther King.",
+                "active": false
+              },
+              {
                 "tags": "2018",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
@@ -1913,6 +1927,71 @@
                 "customStyle1": "display-7",
                 "caption": "Encontro de Bandas do GURI Santa Marcelina, no Theatro São Pedro.",
                 "active": false
+              },
+              {
+                "tags": "2019",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/whatsapp-image-2020-04-26-at-14.42.15-3-960x1280.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/whatsapp-image-2020-04-26-at-14.42.15-3-960x1280-800x1067.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Encontro de Bandas do GURI Santa Marcelina sob regência de Andrew Boysen Jr., no MAM Ibirapuera.",
+                "active": false
+              },
+              {
+                "tags": "2019",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/whatsapp-image-2020-04-26-at-14.42.18-720x480.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/whatsapp-image-2020-04-26-at-14.42.18-720x480-720x480.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Encontro de Bandas do GURI Santa Marcelina sob regência de Andrew Boysen Jr., no MAM Ibirapuera.",
+                "active": false
+              },
+              {
+                "tags": "2018",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/whatsapp-image-2020-04-26-at-14.42.18-1-1080x720.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/whatsapp-image-2020-04-26-at-14.42.18-1-1080x720-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Encontro de Bandas do GURI Santa Marcelina no Theatro São Pedra, sob regência Jacob de Haan.",
+                "active": false
+              },
+              {
+                "tags": "2019",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/whatsapp-image-2020-04-26-at-14.42.15-1-720x480.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/whatsapp-image-2020-04-26-at-14.42.15-1-720x480-720x480.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Encontro de Bandas do GURI Santa Marcelina sob regência de Andrew Boysen Jr., no MAM Ibirapuera.",
+                "active": false
+              },
+              {
+                "tags": "2019",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/whatsapp-image-2020-04-26-at-14.42.14-3-720x480.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/whatsapp-image-2020-04-26-at-14.42.14-3-720x480-720x480.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Encontro de Bandas do GURI Santa Marcelina no MASP, sob regência de Andrew Boysen Jr.",
+                "active": true
               }
             ]
           }
